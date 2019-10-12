@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 12 17:53:37 2019
 
-@author: Raul Blanco Jimenez
+@author:
 """
 
 import sys
