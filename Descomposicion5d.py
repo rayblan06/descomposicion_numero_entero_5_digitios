@@ -17,11 +17,6 @@ if len(sys.argv) == 2:
         
         for i in range(longitud):
             print(" {:05d} ".format( int(cadena[longitud-1-i])*10**i))
-
-
-
-
-
 else:
     print("Introduzca un número entero")
     print("Debe introducir: Ejercicio3_8.py del 0 al 99999")
